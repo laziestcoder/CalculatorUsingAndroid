@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <EditText
+        android:inputType="number"
+        android:layout_margin="12dp"
+        android:padding="12dp"
+        android:hint="Enter a number"
+        android:background="@color/colorPrimaryDark"
+        android:id="@+id/et_input1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <EditText
+        android:inputType="number"
+        android:layout_margin="12dp"
+        android:padding="12dp"
+        android:hint="Enter a number"
+        android:background="@color/colorPrimaryDark"
+        android:id="@+id/et_input2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/et_input1"
+        />
+
+    <Button
+        android:layout_margin="4dp"
+        android:padding="4dp"
+        android:id="@+id/btn_plus"
+        android:text="+"
+        android:background="@color/colorPrimary"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/et_input2"/>
+
+
+    <Button
+        android:layout_margin="4dp"
+        android:padding="4dp"
+        android:id="@+id/btn_minus"
+        android:text="-"
+        android:background="@color/colorPrimary"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/et_input2"
+        android:layout_toRightOf="@+id/btn_plus"/>
+
+
+    <Button
+        android:layout_margin="4dp"
+        android:padding="4dp"
+        android:id="@+id/btn_mul"
+        android:text="x"
+        android:background="@color/colorPrimary"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/et_input2"
+        android:layout_toRightOf="@+id/btn_minus"/>
+
+
+    <Button
+        android:layout_margin="4dp"
+        android:padding="4dp"
+        android:id="@+id/btn_div"
+        android:text="/"
+        android:background="@color/colorPrimary"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/et_input2"
+        android:layout_toRightOf="@+id/btn_mul"/>
+
+    <TextView
+        android:layout_margin="12dp"
+        android:id="@+id/tv_result"
+        android:hint="Result"
+        android:background="@color/colorAccent"
+        android:textSize="36sp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/btn_plus"
+        android:textAlignment="textEnd"/>
+
+
+</RelativeLayout>
