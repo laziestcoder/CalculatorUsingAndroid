@@ -1,0 +1,117 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\android\Calculator\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from F:\android\Calculator\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from F:\android\Calculator\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from F:\android\Calculator\app\src\main\AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:appcompat-v7:25.0.0] C:\Users\laziestcoder\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.0.0.aar\00a4ef97c72eaf232b0bd0b60fa98234\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\laziestcoder\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\95c53cabb7bf1d2fc9f9bf8b10caddd1\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:25.0.0] C:\Users\laziestcoder\.gradle\caches\transforms-1\files-1.1\support-v4-25.0.0.aar\6fe93000e752193e627db7cb65a9bd6f\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:animated-vector-drawable:25.0.0] C:\Users\laziestcoder\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.0.0.aar\ad92eb9ad67d44e1386b542db89fb4e8\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:25.0.0] C:\Users\laziestcoder\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.0.0.aar\6c8eebd9d4886530aa0fa92afcbc971b\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:support-fragment:25.0.0] C:\Users\laziestcoder\.gradle\caches\transforms-1\files-1.1\support-fragment-25.0.0.aar\0593dd011b9010ed23605dedd1555940\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:25.0.0] C:\Users\laziestcoder\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.0.0.aar\d0139bda4ab08f762e6655d47e5d1a0e\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:25.0.0] C:\Users\laziestcoder\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.0.0.aar\67e08eb900afed4575db716f011c8488\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-ui:25.0.0] C:\Users\laziestcoder\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.0.0.aar\3959ffa88c69312e1378d291f27979b9\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-compat:25.0.0] C:\Users\laziestcoder\.gradle\caches\transforms-1\files-1.1\support-compat-25.0.0.aar\eeda729450f6d827a19a107d69c92b2a\AndroidManifest.xml:17:1-27:12
+INJECTED from F:\android\Calculator\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from F:\android\Calculator\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from F:\android\Calculator\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from F:\android\Calculator\app\src\main\AndroidManifest.xml:3:5-50
+		INJECTED from F:\android\Calculator\app\src\main\AndroidManifest.xml
+		INJECTED from F:\android\Calculator\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from F:\android\Calculator\app\src\main\AndroidManifest.xml
+		ADDED from F:\android\Calculator\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from F:\android\Calculator\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from F:\android\Calculator\app\src\main\AndroidManifest.xml
+		ADDED from F:\android\Calculator\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from F:\android\Calculator\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\android\Calculator\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from F:\android\Calculator\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support:appcompat-v7:25.0.0] C:\Users\laziestcoder\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.0.0.aar\00a4ef97c72eaf232b0bd0b60fa98234\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.0.0] C:\Users\laziestcoder\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.0.0.aar\00a4ef97c72eaf232b0bd0b60fa98234\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\laziestcoder\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\95c53cabb7bf1d2fc9f9bf8b10caddd1\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\laziestcoder\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\95c53cabb7bf1d2fc9f9bf8b10caddd1\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-v4:25.0.0] C:\Users\laziestcoder\.gradle\caches\transforms-1\files-1.1\support-v4-25.0.0.aar\6fe93000e752193e627db7cb65a9bd6f\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.0.0] C:\Users\laziestcoder\.gradle\caches\transforms-1\files-1.1\support-v4-25.0.0.aar\6fe93000e752193e627db7cb65a9bd6f\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.0.0] C:\Users\laziestcoder\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.0.0.aar\ad92eb9ad67d44e1386b542db89fb4e8\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.0.0] C:\Users\laziestcoder\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.0.0.aar\ad92eb9ad67d44e1386b542db89fb4e8\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.0.0] C:\Users\laziestcoder\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.0.0.aar\6c8eebd9d4886530aa0fa92afcbc971b\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:25.0.0] C:\Users\laziestcoder\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.0.0.aar\6c8eebd9d4886530aa0fa92afcbc971b\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-fragment:25.0.0] C:\Users\laziestcoder\.gradle\caches\transforms-1\files-1.1\support-fragment-25.0.0.aar\0593dd011b9010ed23605dedd1555940\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.0.0] C:\Users\laziestcoder\.gradle\caches\transforms-1\files-1.1\support-fragment-25.0.0.aar\0593dd011b9010ed23605dedd1555940\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.0.0] C:\Users\laziestcoder\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.0.0.aar\d0139bda4ab08f762e6655d47e5d1a0e\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.0.0] C:\Users\laziestcoder\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.0.0.aar\d0139bda4ab08f762e6655d47e5d1a0e\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.0.0] C:\Users\laziestcoder\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.0.0.aar\67e08eb900afed4575db716f011c8488\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.0.0] C:\Users\laziestcoder\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.0.0.aar\67e08eb900afed4575db716f011c8488\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.0.0] C:\Users\laziestcoder\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.0.0.aar\3959ffa88c69312e1378d291f27979b9\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.0.0] C:\Users\laziestcoder\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.0.0.aar\3959ffa88c69312e1378d291f27979b9\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.0.0] C:\Users\laziestcoder\.gradle\caches\transforms-1\files-1.1\support-compat-25.0.0.aar\eeda729450f6d827a19a107d69c92b2a\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.0.0] C:\Users\laziestcoder\.gradle\caches\transforms-1\files-1.1\support-compat-25.0.0.aar\eeda729450f6d827a19a107d69c92b2a\AndroidManifest.xml:25:5-20
+	android:supportsRtl
+		ADDED from F:\android\Calculator\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from F:\android\Calculator\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from F:\android\Calculator\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from F:\android\Calculator\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from F:\android\Calculator\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from F:\android\Calculator\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.laziestcoder.calculator.MainActivity
+ADDED from F:\android\Calculator\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from F:\android\Calculator\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from F:\android\Calculator\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from F:\android\Calculator\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from F:\android\Calculator\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\android\Calculator\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from F:\android\Calculator\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from F:\android\Calculator\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from F:\android\Calculator\app\src\main\AndroidManifest.xml
+INJECTED from F:\android\Calculator\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:25.0.0] C:\Users\laziestcoder\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.0.0.aar\00a4ef97c72eaf232b0bd0b60fa98234\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.0.0] C:\Users\laziestcoder\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.0.0.aar\00a4ef97c72eaf232b0bd0b60fa98234\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\laziestcoder\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\95c53cabb7bf1d2fc9f9bf8b10caddd1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\laziestcoder\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\95c53cabb7bf1d2fc9f9bf8b10caddd1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:25.0.0] C:\Users\laziestcoder\.gradle\caches\transforms-1\files-1.1\support-v4-25.0.0.aar\6fe93000e752193e627db7cb65a9bd6f\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.0.0] C:\Users\laziestcoder\.gradle\caches\transforms-1\files-1.1\support-v4-25.0.0.aar\6fe93000e752193e627db7cb65a9bd6f\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:animated-vector-drawable:25.0.0] C:\Users\laziestcoder\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.0.0.aar\ad92eb9ad67d44e1386b542db89fb4e8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.0.0] C:\Users\laziestcoder\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.0.0.aar\ad92eb9ad67d44e1386b542db89fb4e8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.0.0] C:\Users\laziestcoder\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.0.0.aar\6c8eebd9d4886530aa0fa92afcbc971b\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:25.0.0] C:\Users\laziestcoder\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.0.0.aar\6c8eebd9d4886530aa0fa92afcbc971b\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-fragment:25.0.0] C:\Users\laziestcoder\.gradle\caches\transforms-1\files-1.1\support-fragment-25.0.0.aar\0593dd011b9010ed23605dedd1555940\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.0.0] C:\Users\laziestcoder\.gradle\caches\transforms-1\files-1.1\support-fragment-25.0.0.aar\0593dd011b9010ed23605dedd1555940\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.0.0] C:\Users\laziestcoder\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.0.0.aar\d0139bda4ab08f762e6655d47e5d1a0e\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.0.0] C:\Users\laziestcoder\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.0.0.aar\d0139bda4ab08f762e6655d47e5d1a0e\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.0.0] C:\Users\laziestcoder\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.0.0.aar\67e08eb900afed4575db716f011c8488\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.0.0] C:\Users\laziestcoder\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.0.0.aar\67e08eb900afed4575db716f011c8488\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.0.0] C:\Users\laziestcoder\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.0.0.aar\3959ffa88c69312e1378d291f27979b9\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.0.0] C:\Users\laziestcoder\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.0.0.aar\3959ffa88c69312e1378d291f27979b9\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.0.0] C:\Users\laziestcoder\.gradle\caches\transforms-1\files-1.1\support-compat-25.0.0.aar\eeda729450f6d827a19a107d69c92b2a\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.0.0] C:\Users\laziestcoder\.gradle\caches\transforms-1\files-1.1\support-compat-25.0.0.aar\eeda729450f6d827a19a107d69c92b2a\AndroidManifest.xml:21:5-23:58
+INJECTED from F:\android\Calculator\app\src\main\AndroidManifest.xml
+INJECTED from F:\android\Calculator\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.0.0] C:\Users\laziestcoder\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.0.0.aar\00a4ef97c72eaf232b0bd0b60fa98234\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from F:\android\Calculator\app\src\main\AndroidManifest.xml
+		ADDED from F:\android\Calculator\app\src\main\AndroidManifest.xml
+		INJECTED from F:\android\Calculator\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from F:\android\Calculator\app\src\main\AndroidManifest.xml
+		ADDED from F:\android\Calculator\app\src\main\AndroidManifest.xml
+		INJECTED from F:\android\Calculator\app\src\main\AndroidManifest.xml
